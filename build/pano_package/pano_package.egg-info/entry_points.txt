@@ -1,0 +1,3 @@
+[console_scripts]
+panoramic_img_node = pano_package.panoramic_img_node:main
+

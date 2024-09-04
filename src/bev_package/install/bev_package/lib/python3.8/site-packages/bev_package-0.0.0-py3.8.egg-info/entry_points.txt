@@ -1,0 +1,3 @@
+[console_scripts]
+bev_node = bev_package.bev_node:mainpanoramic_img_node = bev_package.panoramic_img_node:main
+

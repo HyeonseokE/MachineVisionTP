@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/bev_package/bev_package.egg-info/PKG-INFO
+writing dependency_links to ../../build/bev_package/bev_package.egg-info/dependency_links.txt
+writing entry points to ../../build/bev_package/bev_package.egg-info/entry_points.txt
+writing requirements to ../../build/bev_package/bev_package.egg-info/requires.txt
+writing top-level names to ../../build/bev_package/bev_package.egg-info/top_level.txt
+reading manifest file '../../build/bev_package/bev_package.egg-info/SOURCES.txt'
+writing manifest file '../../build/bev_package/bev_package.egg-info/SOURCES.txt'
+running build
+running build_py
+copying bev_package/bev_node.py -> /home/chohs/bev_ws/build/bev_package/build/lib/bev_package
+running install
+running install_lib
+copying /home/chohs/bev_ws/build/bev_package/build/lib/bev_package/bev_node.py -> /home/chohs/bev_ws/install/bev_package/lib/python3.8/site-packages/bev_package
+byte-compiling /home/chohs/bev_ws/install/bev_package/lib/python3.8/site-packages/bev_package/bev_node.py to bev_node.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/chohs/bev_ws/install/bev_package/lib/python3.8/site-packages/bev_package-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/bev_package/bev_package.egg-info to /home/chohs/bev_ws/install/bev_package/lib/python3.8/site-packages/bev_package-0.0.0-py3.8.egg-info
+running install_scripts
+Installing bev_node.py script to /home/chohs/bev_ws/install/bev_package/lib/bev_package
+writing list of installed files to '/home/chohs/bev_ws/build/bev_package/install.log'

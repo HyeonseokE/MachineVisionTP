@@ -1,0 +1,24 @@
+[1.767s] Invoking command in '/home/chohs/bev_ws/src/pano_package': PYTHONPATH=/home/chohs/bev_ws/build/pano_package/prefix_override:/home/chohs/bev_ws/install/pano_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pano_package build --build-base /home/chohs/bev_ws/build/pano_package/build install --record /home/chohs/bev_ws/build/pano_package/install.log --install-scripts $base/lib/pano_package --single-version-externally-managed
+[2.058s] running egg_info
+[2.059s] writing ../../build/pano_package/pano_package.egg-info/PKG-INFO
+[2.059s] writing dependency_links to ../../build/pano_package/pano_package.egg-info/dependency_links.txt
+[2.059s] writing entry points to ../../build/pano_package/pano_package.egg-info/entry_points.txt
+[2.060s] writing requirements to ../../build/pano_package/pano_package.egg-info/requires.txt
+[2.060s] writing top-level names to ../../build/pano_package/pano_package.egg-info/top_level.txt
+[2.100s] reading manifest file '../../build/pano_package/pano_package.egg-info/SOURCES.txt'
+[2.101s] writing manifest file '../../build/pano_package/pano_package.egg-info/SOURCES.txt'
+[2.101s] running build
+[2.102s] running build_py
+[2.102s] copying pano_package/panoramic_img_node.py -> /home/chohs/bev_ws/build/pano_package/build/lib/pano_package
+[2.102s] running install
+[2.103s] running install_lib
+[2.104s] copying /home/chohs/bev_ws/build/pano_package/build/lib/pano_package/panoramic_img_node.py -> /home/chohs/bev_ws/install/pano_package/lib/python3.8/site-packages/pano_package
+[2.105s] byte-compiling /home/chohs/bev_ws/install/pano_package/lib/python3.8/site-packages/pano_package/panoramic_img_node.py to panoramic_img_node.cpython-38.pyc
+[2.107s] running install_data
+[2.108s] running install_egg_info
+[2.110s] removing '/home/chohs/bev_ws/install/pano_package/lib/python3.8/site-packages/pano_package-0.0.0-py3.8.egg-info' (and everything under it)
+[2.110s] Copying ../../build/pano_package/pano_package.egg-info to /home/chohs/bev_ws/install/pano_package/lib/python3.8/site-packages/pano_package-0.0.0-py3.8.egg-info
+[2.111s] running install_scripts
+[2.132s] Installing panoramic_img_node script to /home/chohs/bev_ws/install/pano_package/lib/pano_package
+[2.133s] writing list of installed files to '/home/chohs/bev_ws/build/pano_package/install.log'
+[2.341s] Invoked command in '/home/chohs/bev_ws/src/pano_package' returned '0': PYTHONPATH=/home/chohs/bev_ws/build/pano_package/prefix_override:/home/chohs/bev_ws/install/pano_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pano_package build --build-base /home/chohs/bev_ws/build/pano_package/build install --record /home/chohs/bev_ws/build/pano_package/install.log --install-scripts $base/lib/pano_package --single-version-externally-managed

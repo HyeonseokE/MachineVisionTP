@@ -1,0 +1,21 @@
+[1.991s] Invoking command in '/home/chohs/bev_ws/src/bev_package': PYTHONPATH=/home/chohs/bev_ws/build/bev_package/prefix_override:/home/chohs/bev_ws/install/bev_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bev_package build --build-base /home/chohs/bev_ws/build/bev_package/build install --record /home/chohs/bev_ws/build/bev_package/install.log --install-scripts $base/lib/bev_package --single-version-externally-managed
+[2.244s] running egg_info
+[2.245s] writing ../../build/bev_package/bev_package.egg-info/PKG-INFO
+[2.245s] writing dependency_links to ../../build/bev_package/bev_package.egg-info/dependency_links.txt
+[2.245s] writing entry points to ../../build/bev_package/bev_package.egg-info/entry_points.txt
+[2.245s] writing requirements to ../../build/bev_package/bev_package.egg-info/requires.txt
+[2.245s] writing top-level names to ../../build/bev_package/bev_package.egg-info/top_level.txt
+[2.293s] reading manifest file '../../build/bev_package/bev_package.egg-info/SOURCES.txt'
+[2.294s] writing manifest file '../../build/bev_package/bev_package.egg-info/SOURCES.txt'
+[2.294s] running build
+[2.294s] running build_py
+[2.294s] running install
+[2.295s] running install_lib
+[2.296s] running install_data
+[2.297s] running install_egg_info
+[2.298s] removing '/home/chohs/bev_ws/install/bev_package/lib/python3.8/site-packages/bev_package-0.0.0-py3.8.egg-info' (and everything under it)
+[2.299s] Copying ../../build/bev_package/bev_package.egg-info to /home/chohs/bev_ws/install/bev_package/lib/python3.8/site-packages/bev_package-0.0.0-py3.8.egg-info
+[2.299s] running install_scripts
+[2.320s] Installing bev_node script to /home/chohs/bev_ws/install/bev_package/lib/bev_package
+[2.320s] writing list of installed files to '/home/chohs/bev_ws/build/bev_package/install.log'
+[2.341s] Invoked command in '/home/chohs/bev_ws/src/bev_package' returned '0': PYTHONPATH=/home/chohs/bev_ws/build/bev_package/prefix_override:/home/chohs/bev_ws/install/bev_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bev_package build --build-base /home/chohs/bev_ws/build/bev_package/build install --record /home/chohs/bev_ws/build/bev_package/install.log --install-scripts $base/lib/bev_package --single-version-externally-managed

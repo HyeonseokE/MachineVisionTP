@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/pano_package/pano_package.egg-info
+writing ../../build/pano_package/pano_package.egg-info/PKG-INFO
+writing dependency_links to ../../build/pano_package/pano_package.egg-info/dependency_links.txt
+writing entry points to ../../build/pano_package/pano_package.egg-info/entry_points.txt
+writing requirements to ../../build/pano_package/pano_package.egg-info/requires.txt
+writing top-level names to ../../build/pano_package/pano_package.egg-info/top_level.txt
+writing manifest file '../../build/pano_package/pano_package.egg-info/SOURCES.txt'
+reading manifest file '../../build/pano_package/pano_package.egg-info/SOURCES.txt'
+writing manifest file '../../build/pano_package/pano_package.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/chohs/bev_ws/build/pano_package/build
+creating /home/chohs/bev_ws/build/pano_package/build/lib
+creating /home/chohs/bev_ws/build/pano_package/build/lib/pano_package
+copying pano_package/__init__.py -> /home/chohs/bev_ws/build/pano_package/build/lib/pano_package
+copying pano_package/panoramic_img_node.py -> /home/chohs/bev_ws/build/pano_package/build/lib/pano_package
+running install
+running install_lib
+creating /home/chohs/bev_ws/install/pano_package/lib/python3.8/site-packages/pano_package
+copying /home/chohs/bev_ws/build/pano_package/build/lib/pano_package/__init__.py -> /home/chohs/bev_ws/install/pano_package/lib/python3.8/site-packages/pano_package
+copying /home/chohs/bev_ws/build/pano_package/build/lib/pano_package/panoramic_img_node.py -> /home/chohs/bev_ws/install/pano_package/lib/python3.8/site-packages/pano_package
+byte-compiling /home/chohs/bev_ws/install/pano_package/lib/python3.8/site-packages/pano_package/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/chohs/bev_ws/install/pano_package/lib/python3.8/site-packages/pano_package/panoramic_img_node.py to panoramic_img_node.cpython-38.pyc
+running install_data
+creating /home/chohs/bev_ws/install/pano_package/share/ament_index
+creating /home/chohs/bev_ws/install/pano_package/share/ament_index/resource_index
+creating /home/chohs/bev_ws/install/pano_package/share/ament_index/resource_index/packages
+copying resource/pano_package -> /home/chohs/bev_ws/install/pano_package/share/ament_index/resource_index/packages
+copying package.xml -> /home/chohs/bev_ws/install/pano_package/share/pano_package
+running install_egg_info
+Copying ../../build/pano_package/pano_package.egg-info to /home/chohs/bev_ws/install/pano_package/lib/python3.8/site-packages/pano_package-0.0.0-py3.8.egg-info
+running install_scripts
+Installing panoramic_img_node script to /home/chohs/bev_ws/install/pano_package/lib/pano_package
+writing list of installed files to '/home/chohs/bev_ws/build/pano_package/install.log'

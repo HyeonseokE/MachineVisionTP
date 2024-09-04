@@ -1,0 +1,42 @@
+[1.027s] Invoking command in '/home/chohs/bev_ws/src/bev_package': PYTHONPATH=/home/chohs/bev_ws/src/bev_package/build/bev_package/prefix_override:/home/chohs/bev_ws/src/bev_package/install/bev_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/bev_package build --build-base /home/chohs/bev_ws/src/bev_package/build/bev_package/build install --record /home/chohs/bev_ws/src/bev_package/build/bev_package/install.log --install-scripts $base/lib/bev_package --single-version-externally-managed
+[1.224s] running egg_info
+[1.224s] creating build/bev_package/bev_package.egg-info
+[1.224s] writing build/bev_package/bev_package.egg-info/PKG-INFO
+[1.224s] writing dependency_links to build/bev_package/bev_package.egg-info/dependency_links.txt
+[1.224s] writing entry points to build/bev_package/bev_package.egg-info/entry_points.txt
+[1.224s] writing requirements to build/bev_package/bev_package.egg-info/requires.txt
+[1.224s] writing top-level names to build/bev_package/bev_package.egg-info/top_level.txt
+[1.229s] writing manifest file 'build/bev_package/bev_package.egg-info/SOURCES.txt'
+[1.261s] reading manifest file 'build/bev_package/bev_package.egg-info/SOURCES.txt'
+[1.261s] writing manifest file 'build/bev_package/bev_package.egg-info/SOURCES.txt'
+[1.261s] running build
+[1.261s] running build_py
+[1.262s] creating /home/chohs/bev_ws/src/bev_package/build/bev_package/build
+[1.262s] creating /home/chohs/bev_ws/src/bev_package/build/bev_package/build/lib
+[1.262s] creating /home/chohs/bev_ws/src/bev_package/build/bev_package/build/lib/bev_package
+[1.262s] copying bev_package/bev_node.py -> /home/chohs/bev_ws/src/bev_package/build/bev_package/build/lib/bev_package
+[1.262s] copying bev_package/__init__.py -> /home/chohs/bev_ws/src/bev_package/build/bev_package/build/lib/bev_package
+[1.262s] copying bev_package/panoramic_img_node.py -> /home/chohs/bev_ws/src/bev_package/build/bev_package/build/lib/bev_package
+[1.262s] running install
+[1.263s] running install_lib
+[1.263s] creating /home/chohs/bev_ws/src/bev_package/install/bev_package/lib/python3.8/site-packages/bev_package
+[1.263s] copying /home/chohs/bev_ws/src/bev_package/build/bev_package/build/lib/bev_package/bev_node.py -> /home/chohs/bev_ws/src/bev_package/install/bev_package/lib/python3.8/site-packages/bev_package
+[1.264s] copying /home/chohs/bev_ws/src/bev_package/build/bev_package/build/lib/bev_package/__init__.py -> /home/chohs/bev_ws/src/bev_package/install/bev_package/lib/python3.8/site-packages/bev_package
+[1.264s] copying /home/chohs/bev_ws/src/bev_package/build/bev_package/build/lib/bev_package/panoramic_img_node.py -> /home/chohs/bev_ws/src/bev_package/install/bev_package/lib/python3.8/site-packages/bev_package
+[1.264s] byte-compiling /home/chohs/bev_ws/src/bev_package/install/bev_package/lib/python3.8/site-packages/bev_package/bev_node.py to bev_node.cpython-38.pyc
+[1.266s] byte-compiling /home/chohs/bev_ws/src/bev_package/install/bev_package/lib/python3.8/site-packages/bev_package/__init__.py to __init__.cpython-38.pyc
+[1.266s] byte-compiling /home/chohs/bev_ws/src/bev_package/install/bev_package/lib/python3.8/site-packages/bev_package/panoramic_img_node.py to panoramic_img_node.cpython-38.pyc
+[1.266s] running install_data
+[1.267s] creating /home/chohs/bev_ws/src/bev_package/install/bev_package/share/ament_index
+[1.267s] creating /home/chohs/bev_ws/src/bev_package/install/bev_package/share/ament_index/resource_index
+[1.267s] creating /home/chohs/bev_ws/src/bev_package/install/bev_package/share/ament_index/resource_index/packages
+[1.267s] copying resource/bev_package -> /home/chohs/bev_ws/src/bev_package/install/bev_package/share/ament_index/resource_index/packages
+[1.267s] copying package.xml -> /home/chohs/bev_ws/src/bev_package/install/bev_package/share/bev_package
+[1.267s] creating /home/chohs/bev_ws/src/bev_package/install/bev_package/share/bev_package/launch
+[1.267s] copying launch/bev_launch.py -> /home/chohs/bev_ws/src/bev_package/install/bev_package/share/bev_package/launch
+[1.267s] running install_egg_info
+[1.268s] Copying build/bev_package/bev_package.egg-info to /home/chohs/bev_ws/src/bev_package/install/bev_package/lib/python3.8/site-packages/bev_package-0.0.0-py3.8.egg-info
+[1.269s] running install_scripts
+[1.285s] Installing bev_node = bev_package.bev_node:mainpanoramic_img_node script to /home/chohs/bev_ws/src/bev_package/install/bev_package/lib/bev_package
+[1.286s] writing list of installed files to '/home/chohs/bev_ws/src/bev_package/build/bev_package/install.log'
+[1.305s] Invoked command in '/home/chohs/bev_ws/src/bev_package' returned '0': PYTHONPATH=/home/chohs/bev_ws/src/bev_package/build/bev_package/prefix_override:/home/chohs/bev_ws/src/bev_package/install/bev_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/bev_package build --build-base /home/chohs/bev_ws/src/bev_package/build/bev_package/build install --record /home/chohs/bev_ws/src/bev_package/build/bev_package/install.log --install-scripts $base/lib/bev_package --single-version-externally-managed
